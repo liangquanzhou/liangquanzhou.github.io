@@ -4,7 +4,7 @@
   <subtitle><![CDATA[诗意地生活.]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://liangquanzhou.com/"/>
-  <updated>2015-01-12T10:24:22.799Z</updated>
+  <updated>2015-01-12T11:31:50.374Z</updated>
   <id>http://liangquanzhou.com/</id>
   
   <author>
@@ -13,6 +13,33 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[gallery]]></title>
+    <link href="http://liangquanzhou.com/2015/01/11/gallery/"/>
+    <id>http://liangquanzhou.com/2015/01/11/gallery/</id>
+    <published>2015-01-11T07:09:02.000Z</published>
+    <updated>2015-01-12T11:29:10.000Z</updated>
+    <content type="html"><![CDATA[<p>Nunc dignissim volutpat enim, non sollicitudin purus dignissim id. Nam sit amet urna eu velit lacinia eleifend. Proin auctor rhoncus ligula nec aliquet. Donec sodales molestie lacinia. Curabitur dictum faucibus urna at convallis. Aliquam in lectus at urna rutrum porta. In lacus arcu, molestie ut vestibulum ut, rhoncus sed eros. Sed et elit vitae risus pretium consectetur vel in mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tempus turpis quis lectus rhoncus adipiscing. Proin pulvinar placerat suscipit. Maecenas imperdiet, quam vitae varius auctor, enim mauris vulputate sapien, nec laoreet neque diam non quam.</p>
+<a id="more"></a>
+
+<p><img src="http://ww1.sinaimg.cn/large/81b78497jw1emfgts2pt4j21hc0u0k1c.jpg" alt="Wallbase - dgnfly (wallbase.cc/wallpaper/1384450)"></p>
+<p>Etiam luctus mauris at mi sollicitudin quis malesuada nibh porttitor. Vestibulum non dapibus magna. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin feugiat hendrerit viverra. Phasellus sit amet nunc mauris, eu ultricies tellus. Sed a mi tortor, eleifend varius erat. Proin consectetur molestie tortor eu gravida. Cras placerat orci id arcu tristique ut rutrum justo pulvinar. Maecenas lacinia fringilla diam non bibendum. Aenean vel viverra turpis. Integer ut leo nisi. Pellentesque vehicula quam ut sapien convallis consequat. Aliquam ut arcu purus, eget tempor purus. Integer eu tellus quis erat tristique gravida eu vel lorem. </p>
+]]></content>
+    <summary type="html">
+    <![CDATA[this is description]]>
+    
+    </summary>
+    
+      <category term="tag1" scheme="http://liangquanzhou.com/tags/tag1/"/>
+    
+      <category term="tag2" scheme="http://liangquanzhou.com/tags/tag2/"/>
+    
+      <category term="photo1" scheme="http://liangquanzhou.com/categories/photo1/"/>
+    
+      <category term="photo2" scheme="http://liangquanzhou.com/categories/photo1/photo2/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[First-Post]]></title>
