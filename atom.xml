@@ -4,7 +4,7 @@
   <subtitle><![CDATA[诗意地生活.]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://liangquanzhou.com/"/>
-  <updated>2015-01-12T11:31:50.374Z</updated>
+  <updated>2015-01-12T22:37:59.763Z</updated>
   <id>http://liangquanzhou.com/</id>
   
   <author>
@@ -15,101 +15,27 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[gallery]]></title>
-    <link href="http://liangquanzhou.com/2015/01/11/gallery/"/>
-    <id>http://liangquanzhou.com/2015/01/11/gallery/</id>
-    <published>2015-01-11T07:09:02.000Z</published>
-    <updated>2015-01-12T11:29:10.000Z</updated>
-    <content type="html"><![CDATA[<p>Nunc dignissim volutpat enim, non sollicitudin purus dignissim id. Nam sit amet urna eu velit lacinia eleifend. Proin auctor rhoncus ligula nec aliquet. Donec sodales molestie lacinia. Curabitur dictum faucibus urna at convallis. Aliquam in lectus at urna rutrum porta. In lacus arcu, molestie ut vestibulum ut, rhoncus sed eros. Sed et elit vitae risus pretium consectetur vel in mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tempus turpis quis lectus rhoncus adipiscing. Proin pulvinar placerat suscipit. Maecenas imperdiet, quam vitae varius auctor, enim mauris vulputate sapien, nec laoreet neque diam non quam.</p>
-<a id="more"></a>
-
-<p><img src="http://ww1.sinaimg.cn/large/81b78497jw1emfgts2pt4j21hc0u0k1c.jpg" alt="Wallbase - dgnfly (wallbase.cc/wallpaper/1384450)"></p>
-<p>Etiam luctus mauris at mi sollicitudin quis malesuada nibh porttitor. Vestibulum non dapibus magna. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin feugiat hendrerit viverra. Phasellus sit amet nunc mauris, eu ultricies tellus. Sed a mi tortor, eleifend varius erat. Proin consectetur molestie tortor eu gravida. Cras placerat orci id arcu tristique ut rutrum justo pulvinar. Maecenas lacinia fringilla diam non bibendum. Aenean vel viverra turpis. Integer ut leo nisi. Pellentesque vehicula quam ut sapien convallis consequat. Aliquam ut arcu purus, eget tempor purus. Integer eu tellus quis erat tristique gravida eu vel lorem. </p>
+    <title><![CDATA[第一篇博客]]></title>
+    <link href="http://liangquanzhou.com/2015/01/12/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://liangquanzhou.com/2015/01/12/第一篇博客/</id>
+    <published>2015-01-12T20:07:35.000Z</published>
+    <updated>2015-01-12T22:25:53.000Z</updated>
+    <content type="html"><![CDATA[<p>终于开好了自己的博客. 看了网上好多教程, 也看了好多的theme, 最终选定了这个界面. 其实还要好多不满意的地方, 但是自己倒腾瞎捣腾了半天也没弄明白一些细节该怎么修改. 这玩意太复杂了, 还是留给开发者解决了问题后我直接拿来用吧, 哈哈. </p>
+<p>现在我应该是走到一个路口了. 读个Master仿佛瞬间就毕业了, 不得不感叹时间好快. 现在回想起来,还能清楚记得大一刚到学校的时候第一天晚上住在寝室了和室友夜聊的话题… Anyway, 既然已经顺着时间的河流漂到这儿了, 总得要继续. </p>
+<p>目前最大的任务就是找工作了. 但是我这个人无比的懒, 懒到自己都不好意思了. 最后一个学期大家都在忙着找工作, 我却一点都没着急. 我现在甚至都回想不起来这学期都忙了些什么, 但每天好像都还有些事干. 可能这学期都去忙了一些不重要的事吧, 该干的却没干. </p>
+<p>我虽然知道自己懒, 可是我总是会自己给自己找借口: 磨刀不误砍柴工. 看一些职位上的 requirements 和 desired qualification, 发现自己总有一些没有满足的, 于是对自己说: 先把那个学学吧. 然后,就没有然后了. 当然是没坚持学下来, 学习的规划总是容易被打断, 然后自己就把它遗忘了. 然而这么下去肯定不是个办法呀, 找不到工作没饭吃了呀! 所以要硬着头皮去找, 一些不会的知识也要学会. 总之, 学习也还需进步, 生活还得继续. </p>
+<p>开这个博客也是想让自己把一些生活和学习中的东西记录下来. 我不想再像以前那样, 想要回想曾经某一段时间干过些什么, 却发现自己的记忆中空空如也, 没有沉淀. 所以, 希望未来的我想起现在的时候, 能做到不后悔, 然后有一种 “实迷途其未远, 觉今是而昨非” 的感慨. </p>
 ]]></content>
     <summary type="html">
-    <![CDATA[this is description]]>
+    <![CDATA[悟以往之不谏, 知来者之可追.]]>
     
     </summary>
     
-      <category term="tag1" scheme="http://liangquanzhou.com/tags/tag1/"/>
+      <category term="杂想" scheme="http://liangquanzhou.com/tags/%E6%9D%82%E6%83%B3/"/>
     
-      <category term="tag2" scheme="http://liangquanzhou.com/tags/tag2/"/>
+      <category term="乱七八糟" scheme="http://liangquanzhou.com/tags/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F/"/>
     
-      <category term="photo1" scheme="http://liangquanzhou.com/categories/photo1/"/>
-    
-      <category term="photo2" scheme="http://liangquanzhou.com/categories/photo1/photo2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[First-Post]]></title>
-    <link href="http://liangquanzhou.com/2015/01/11/First-Post-md/"/>
-    <id>http://liangquanzhou.com/2015/01/11/First-Post-md/</id>
-    <published>2015-01-11T07:09:02.000Z</published>
-    <updated>2015-01-12T08:01:27.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="Herder_1">Herder 1</h1>
-<h2 id="Header_2">Header 2</h2>
-<p>This part is the Abstract</p>
-<h3 id="Header_3">Header 3</h3>
-<h2 id="Another_Header_2">Another Header 2</h2>
-<h3 id="Another_Header_3">Another Header 3</h3>
-<p>This is the main part.</p>
-<p>$$\sigma$$</p>
-<p>blablabla $\alpha$ and $\beta$</p>
-<h2 id="Last_header_2">Last header 2</h2>
-<p>this a paragraph with <strong>bold</strong> and ++underline++~sd~</p>
-<p>sdf^sdf^</p>
-<p>gads<del>sdf</del>==asdfadsf====asdfasdf==</p>
-<p>asd[^1]</p>
-<p><code>dfgdfg</code></p>
-<ul>
-<li>[ ] hi</li>
-</ul>
-<p><a href="text">1^</a></p>
-<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">first</span> <span class="built_in">line</span></div><div class="line"><span class="keyword">second</span> <span class="built_in">line</span>: <span class="operator">a</span> veryveryveryveryveryveryveryvery <span class="keyword">long</span> code</div><div class="line"><span class="keyword">third</span> <span class="built_in">line</span>: <span class="operator">a</span> veryveryveryveryveryveryveryveryveryveryveryvery very very <span class="keyword">long</span> code</div><div class="line"><span class="keyword">fourth</span> <span class="built_in">line</span>: <span class="operator">a</span> veryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryvery <span class="keyword">long</span> code</div></pre></td></tr></table></figure>
-
-]]></content>
-    <summary type="html">
-    <![CDATA[this is description]]>
-    
-    </summary>
-    
-      <category term="tag1" scheme="http://liangquanzhou.com/tags/tag1/"/>
-    
-      <category term="tag2" scheme="http://liangquanzhou.com/tags/tag2/"/>
-    
-      <category term="category1" scheme="http://liangquanzhou.com/categories/category1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <link href="http://liangquanzhou.com/2015/01/10/hello-world/"/>
-    <id>http://liangquanzhou.com/2015/01/10/hello-world/</id>
-    <published>2015-01-10T19:13:06.000Z</published>
-    <updated>2015-01-10T19:13:06.000Z</updated>
-    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">trobuleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick_Start">Quick Start</h2>
-<h3 id="Create_a_new_post">Create a new post</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-
-<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run_server">Run server</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-
-<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate_static_files">Generate static files</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-
-<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-
-<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
-    </summary>
+      <category term="生活琐碎" scheme="http://liangquanzhou.com/categories/%E7%94%9F%E6%B4%BB%E7%90%90%E7%A2%8E/"/>
     
   </entry>
   

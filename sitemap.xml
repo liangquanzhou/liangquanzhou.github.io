@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://liangquanzhou.com/2015/01/11/gallery/</loc>
-    <lastmod>2015-01-12T11:29:10.000Z</lastmod>
+    <loc>http://liangquanzhou.com/about/index.html</loc>
+    <lastmod>2015-01-12T22:36:04.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liangquanzhou.com/2015/01/12/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2015-01-12T22:25:53.000Z</lastmod>
   </url>
   
   <url>
     <loc>http://liangquanzhou.com/404.html</loc>
     <lastmod>2015-01-12T10:25:52.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://liangquanzhou.com/2015/01/11/First-Post-md/</loc>
-    <lastmod>2015-01-12T08:01:27.000Z</lastmod>
   </url>
   
   <url>
@@ -34,16 +34,6 @@
   <url>
     <loc>http://liangquanzhou.com/tag/index.html</loc>
     <lastmod>2015-01-11T20:20:10.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://liangquanzhou.com/about/index.html</loc>
-    <lastmod>2015-01-10T21:03:39.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://liangquanzhou.com/2015/01/10/hello-world/</loc>
-    <lastmod>2015-01-10T19:13:06.000Z</lastmod>
   </url>
   
 </urlset>
